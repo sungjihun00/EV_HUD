@@ -3,7 +3,7 @@ A simple HUD with multiple customization options.
 
 [ESX Testing Version](https://github.com/EntityEvolution/ev-hud/tree/esx)
 
-### [Discord](https://discord.com/invite/u4zk4tVTkG)
+### [Discord](https://discord.gg/T7yjdrGsTn)
 ### [Donations](https://www.buymeacoffee.com/bombayV)
 
 # License
